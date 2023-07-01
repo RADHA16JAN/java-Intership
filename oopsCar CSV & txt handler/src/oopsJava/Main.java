@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        System.out.println("Main Function tarted");
+        System.out.println("Main Function started");
         System.out.println("Enter your Choice:");
         System.out.print("1.Save as txt " + " " + "2.Save as csv");
 
